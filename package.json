@@ -1,0 +1,16 @@
+{
+  "name": "mnode",
+  "version": "1.0.0",
+  "description": "Node application for communication between mongo and node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "author": "Amey Mohite",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^2.0.0",
+    "mongodb": "^3.5.5"
+  }
+}
